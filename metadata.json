@@ -1,0 +1,6 @@
+{
+  "name": "ระบบประมูลหมวก Top 10 Real-time (Google Sheets)",
+  "description": "ระบบประมูลหมวกสิบลู่เกียรติยศ Top 10 Real-time Auction พร้อมจอแสดงผล Live Leaderboard, แผงควบคุม Admin และการเชื่อมต่อ Google Sheets",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
